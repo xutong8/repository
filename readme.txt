@@ -1,2 +1,2 @@
-﻿wzy is a girl.
+﻿ariel is a girl.
 Git is free software.
